@@ -4,12 +4,11 @@ function Hero() {
       className="container text-center mt-5"
     >
       <img
-        src="../images/profile.png"
-        alt="profile"
-        width="200"
-        className="rounded-circle"
-        loading="lazy"
-      />
+  src="/profile.jpg"
+  alt="profile"
+  width="200"
+  className="rounded-circle"
+/>
 
       <h1>
         Hi, I'm Pranav Bagal
