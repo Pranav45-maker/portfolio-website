@@ -5,7 +5,7 @@ function Resume() {
       <h2>Resume</h2>
 
       <a
-        href="/resume.pdf"
+        href="/Pranav_resume.pdf"
         download
         className="btn btn-success"
       >
