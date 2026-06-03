@@ -4,7 +4,7 @@ function Hero() {
       className="container text-center mt-5"
     >
       <img
-  src="/profile.jpg"
+  src="/profile.png"
   alt="profile"
   width="200"
   className="rounded-circle"
